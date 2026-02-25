@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Pearlview Hotel placeholder">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8cc6f7"/><stop offset="1" stop-color="#2f5d7f"/></linearGradient></defs>
-  <rect width="800" height="500" fill="url(#g)"/>
-  <text x="400" y="250" text-anchor="middle" fill="#fff" font-size="50" font-family="Poppins,Arial,sans-serif" font-weight="700">Pearlview Hotel</text>
-</svg>
