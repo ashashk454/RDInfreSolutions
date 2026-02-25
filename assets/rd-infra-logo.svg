@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" role="img" aria-label="R D Infra Solutions logo placeholder">
+  <rect width="400" height="120" fill="#ffffff"/>
+  <g fill="none" stroke="#1b181d" stroke-width="8" stroke-linecap="round">
+    <path d="M20 95V45L95 10v85"/>
+    <path d="M110 95V25l90 60"/>
+  </g>
+  <text x="215" y="62" font-size="44" font-family="Arial, sans-serif" font-weight="700" fill="#a80a0a">RD</text>
+  <text x="20" y="112" font-size="24" font-family="Arial, sans-serif" font-weight="700" fill="#1b181d">INFRA SOLUTIONS</text>
+</svg>
