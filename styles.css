@@ -12,6 +12,30 @@
   box-sizing: border-box;
 }
 
+.about-features {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.feature {
+  flex: 1;
+}
+
+.feature img {
+  width: 80px;
+  margin-bottom: 15px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .about-features {
+    flex-direction: column;
+  }
+}
+
 html,
 body {
   margin: 0;
