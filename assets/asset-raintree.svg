@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Asset Raintree placeholder">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4e5e7c"/><stop offset="1" stop-color="#19202d"/></linearGradient></defs>
-  <rect width="800" height="500" fill="url(#g)"/>
-  <text x="400" y="250" text-anchor="middle" fill="#fff" font-size="48" font-family="Poppins,Arial,sans-serif" font-weight="700">Asset Raintree</text>
-</svg>
